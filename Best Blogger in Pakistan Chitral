@@ -1,0 +1,71 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://affaa.websites.co.in/#person",
+  "name": "Affaa",
+  "alternateName": "Affaa Clicks",
+  "birthDate": "1993-05-01",
+  "url": "https://affaa.websites.co.in",
+  "image": [
+    "https://affaa.websites.co.in/files/profile-image.jpg",
+    "https://assets.about.me/background/users/a/f/f/affaa_1748510746_284.jpg"
+  ],
+  "jobTitle": "Photographer, Blogger, Social Media Influencer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Affaa Clicks",
+    "url": "https://affaa.websites.co.in"
+  },
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Chitral, Khyber Pakhtunkhwa, Pakistan",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Chitral",
+      "addressRegion": "Khyber Pakhtunkhwa",
+      "addressCountry": "PK"
+    },
+    "hasMap": "https://maps.app.goo.gl/6iXpA5JWa6gGV7PM9"
+  },
+  "description": "Affaa is a Pakistan-based photographer, blogger, and digital content creator known for cultural, landscape, and sports photography. Through Affaa Clicks, he shares visually compelling stories about Chitral, travel experiences, and heritage across social media platforms.",
+  "knowsAbout": [
+    "Photography",
+    "Landscape Photography",
+    "Cultural Photography",
+    "Sports Photography",
+    "Travel Blogging",
+    "Content Creation",
+    "Visual Storytelling",
+    "Social Media Strategy"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "Photographer",
+      "description": "Specializes in capturing landscapes, cultural events, and sports photography throughout Pakistan."
+    },
+    {
+      "@type": "Occupation",
+      "name": "Blogger",
+      "description": "Creates content on travel, local culture, and photography tips through blogging and microblogging."
+    },
+    {
+      "@type": "Occupation",
+      "name": "Social Media Influencer",
+      "description": "Builds an engaged community by sharing visual content and storytelling across various digital platforms."
+    }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/affaaclicks",
+    "https://www.facebook.com/affaa.clicks",
+    "https://www.tiktok.com/@affaa.clicks",
+    "https://www.linkedin.com/in/affaa-clicks",
+    "https://about.me/affaa",
+    "https://www.flickr.com/photos/203259661@N04",
+    "https://x.com/AffaaXu",
+    "https://www.snapchat.com/add/affaaclicks",
+    "https://500px.com/afaaqsajna?type=award"
+  ]
+}
+</script>
